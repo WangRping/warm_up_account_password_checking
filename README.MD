@@ -3,7 +3,7 @@
 
 ## 功能說明
 - 使用者資料為:
-const users = [
+ [
  {
    firstName: 'Tony',
    email: 'tony@stark.com',
